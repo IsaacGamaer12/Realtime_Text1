@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(rgb(255, 0, 0), rgb(255, 157, 0), rgb(255, 251, 0));
+}
+
+h3{
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    font-size: 30px;
+    width: 100%;
+}
+
+#nota{
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 12px;
+}
+
+.copy_right_footer{
+    text-align: center;
+    background-color: rgb(121, 91, 255);
+    color: white;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
